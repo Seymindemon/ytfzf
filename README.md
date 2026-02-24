@@ -216,3 +216,4 @@ Feel free to contribute, and add your name to the credits, please use the develo
 | qoheniac      | [contributions](credits/qoheniac.md)      |        |
 | mathisto      | [contributions](credits/mathisto.md)      |        |
 [BRANCH1-COMMIT1] Первое изменение в ветке branch1
+[BRANCH1-COMMIT2] Второе изменение в ветке branch1
